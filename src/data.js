@@ -1,4 +1,4 @@
-const items = () => [
+const items = [
   {
     title: "What is React?",
     content: "React is a Javascript framework",
