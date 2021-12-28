@@ -3,6 +3,7 @@ import items from "../data";
 
 const Accordion = () => {
   const [activeIndex, setActiveIndex] = useState(null);
+
   // helper function
   const onTitleClick = (index) => {
     setActiveIndex(index);
